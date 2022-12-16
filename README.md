@@ -32,3 +32,6 @@ def task():
     cratedb_writer(iaq_1, iaq_2, powermeter_1, powermeter_2)
 ```
 ![alt text](https://sv1.picz.in.th/images/2022/12/16/GMyqnR.png)
+
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://sv1.picz.in.th/images/2022/12/16/GMyqnR.png))
+
