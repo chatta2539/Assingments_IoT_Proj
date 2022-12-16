@@ -33,5 +33,5 @@ def task():
 ```
 ![alt text](https://sv1.picz.in.th/images/2022/12/16/GMyqnR.png)
 
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://sv1.picz.in.th/images/2022/12/16/GMyqnR.png))
+![My Remote Images.png)](https://sv1.picz.in.th/images/2022/12/16/GMyqnR.png))
 
