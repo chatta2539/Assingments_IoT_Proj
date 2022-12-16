@@ -31,3 +31,4 @@ def task():
     powermeter_2 = modbus_reader("192.168.2.1", 1, 1048)/10
     cratedb_writer(iaq_1, iaq_2, powermeter_1, powermeter_2)
 ```
+![alt text](https://sv1.picz.in.th/images/2022/12/16/GMyqnR.png)
